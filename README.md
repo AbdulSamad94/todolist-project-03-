@@ -1,0 +1,1 @@
+in this repository i have made a simple cli todo list in this program it will take any work you want to do and it asks you again if you want to add more work use this npx command of mine :npx todo-list-by-abdulsamad
